@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 15 14:10:35 2020
-
-@author: James
-"""
 
 import flask
 app = flask.Flask(import_name="irisapp")
